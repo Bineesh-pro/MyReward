@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "741593003060",
+    "project_id": "myrewardx",
+    "storage_bucket": "myrewardx.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741593003060:android:b0785ed450f296d3d7c661",
+        "android_client_info": {
+          "package_name": "com.app.rewarddaddy.myreward"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741593003060-5069te3jtbee1c1rclmanm5rubb6qrrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.rewarddaddy.myreward",
+            "certificate_hash": "f83bbe0e47b6abb8e1552039a47da590fbbf2488"
+          }
+        },
+        {
+          "client_id": "741593003060-c11geu2la5ogj1lkpk2vci7me52kn4dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChH2PahqHMJcE3VLS8d80ayORlI6LfDOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741593003060-c11geu2la5ogj1lkpk2vci7me52kn4dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

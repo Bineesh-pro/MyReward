@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyReward</string>
+    <string name="tittle">Quiz Panda</string>
+    <string name="sub_tittle">Think fast, play smart, win big!</string>
+    <string name="login_welcome_text">Ready to become a trivia champion?\nLet\'s get started!</string>
+    <string name="web_client_id">741593003060-c11geu2la5ogj1lkpk2vci7me52kn4dd.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
